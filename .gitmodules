@@ -1,3 +1,4 @@
 [submodule "dist"]
 	path = dist
 	url = git@github.com:omranjamal/hsl-code-playground.git
+	branch = gh-pages
